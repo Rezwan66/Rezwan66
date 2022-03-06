@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me shaikhrezwan66@gmail.com
 - An enthusiastic Digital Engineering graduate student, with a passion to learn and explore data knowledge. Adept at problem-solving, Excel, SQL, and Python programming. I want to   contribute my utmost knowledge and develop skills in Data Analysis along with efficient data-driven decision-making to grow the organization.
-![image](https://user-images.githubusercontent.com/63563859/156946953-2f7bdca9-e44a-4b55-8156-e4716940cffb.png)
 
 
 <!---
