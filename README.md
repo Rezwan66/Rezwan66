@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rezwan66
-- 👀 I’m interested in an internship position as a Data Analyst
-- 🌱 I’m currently learning Masters in Digital Engineering and taking the Google Professional Data Analysis Certification
-- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 👋 Hi, I’m Shaikh Rezwan
+- 👀 I’m interested in Exploratory Data Analysis(EDA), Data Visualization, and Machine Learning
+- 🌱 I’m currently learning Masters in Digital Engineering and completed the Google Professional Data Analysis Certification
+- 💞️ I’m looking to collaborate on Data Analysis Projects to solve real-world business problems efficiently.
 - 📫 How to reach me shaikhrezwan66@gmail.com
 - An enthusiastic Digital Engineering graduate student, with a passion to learn and explore data knowledge. Adept at problem-solving, Excel, SQL, and Python programming. I want to   contribute my utmost knowledge and develop skills in Data Analysis along with efficient data-driven decision-making to grow the organization.
 
