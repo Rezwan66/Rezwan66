@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Masters in Digital Engineering and completed the Google Professional Data Analysis Certification
 - 💞️ I’m looking to collaborate on Data Analysis Projects to solve real-world business problems efficiently.
 - 📫 How to reach me shaikhrezwan66@gmail.com
-- Skill-set: *problem-solving, *Excel, *SQL, and *Tableau, *R and *Python programming
+- Skill-set: -problem-solving -Excel -SQL -Tableau -R and Python programming
 
 
 <!---
