@@ -9,7 +9,7 @@ I am a graduate student of Digital Engineering and I have been learning to code 
 * 🌍  I'm based in Magdeburg, Germany
 * 🖥️  See my portfolio at [MyPortfolio](http://rezwan66.github.io/ShaikhRezwan.github.io/)
 * ✉️  You can contact me at [shaikhrezwan66@gmail.com](mailto:shaikhrezwan66@gmail.com)
-* 🚀  I'm currently working on [React JS Projects](http://luminous-lamington-a31c6f.netlify.app/)
+* 🚀  I'm currently working on [React JS Projects](https://github.com/Rezwan66/webdev-projects/blob/main/README.md#react-projects)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman...
