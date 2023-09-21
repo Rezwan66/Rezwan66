@@ -34,7 +34,6 @@ I am a graduate student of Digital Engineering and I have been learning to code 
 
 <a href="http://www.github.com/Rezwan66"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezwan66&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Rezwan66"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rezwan66&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Rezwan66" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan66&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
