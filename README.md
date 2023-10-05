@@ -34,8 +34,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,react,vite,nodejs,express,mongodb,mysql,firebase,figma&perline=7)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezwan66&show_icons=true&locale=en&layout=compact" alt="rezwan66" width="300" height="200" /></p>
+[//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezwan66&show_icons=true&locale=en&layout=compact" alt="rezwan66" width="300" height="200" /></p>)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezwan66&show_icons=true&locale=en" alt="rezwan66" width="400" height="200" /></p>
+[//]: # (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezwan66&show_icons=true&locale=en" alt="rezwan66" width="400" height="200" /></p>)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rezwan66&" alt="rezwan66" width="400" height="200" /></p>
+[//]: # (<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rezwan66&" alt="rezwan66" width="400" height="200" /></p>)
