@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezwan66&label=Profile%20views&color=0e75b6&style=flat" alt="rezwan66" /> </p>
 
-- 🌱 I’m currently learning **MERN, Authentication**
+- 🌱 I’m currently learning **MERN, Firebase SDK**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](http://rezwan66.github.io/ShaikhRezwan.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](http://rezwan66.github.io/ShaikhRezwan.github.io/), [WebDev Projects](https://github.com/Rezwan66/webdev-projects)
 
 - 💬 Ask me about **React, Vanilla JavaScript, Tailwind CSS**
 
