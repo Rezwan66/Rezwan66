@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezwan66&label=Profile%20views&color=0e75b6&style=flat" alt="rezwan66" /> </p>
 
-- 🌱 I’m currently learning **MERN, Firebase SDK**
+- 🌱 I’m currently learning **Next Js, MUI**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
