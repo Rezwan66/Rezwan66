@@ -29,8 +29,8 @@
 
 ## GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&theme=neon&background=45%2C044AAE%2CD24B85)](https://git.io/streak-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rezwan66&theme=algolia&utcOffset=8)
