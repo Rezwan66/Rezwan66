@@ -40,13 +40,12 @@
 </p>
 
 <div style="display:flex;justify-content: space-between">
-<p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
-</p>
-
-<p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
-</p>
+  <p align="left">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
+  </p>
+  <p align="right">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
+  </p>
 </div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
