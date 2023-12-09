@@ -40,10 +40,10 @@
 </p>
 
 <a href="http://www.github.com/Rezwan66">
-    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
+    <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
 </a>
-<a href="http://www.github.com/Rezwan66" align="right">
-    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
+<a href="http://www.github.com/Rezwan66">
+    <img align="right" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
 </a>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
