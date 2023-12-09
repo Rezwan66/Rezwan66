@@ -31,17 +31,17 @@
 
 ## 🚀 Latest Projects
 
-### Online Tourist Guide Platform
+### Online Tourist Guide Platform 🎍
 
-<ul>
-  <li><strong>Description:</strong> Explore Nest is an online tourist guide platform that provides comprehensive information and resources for travelers seeking guidance on popular destinations and booking a tour package.</li>
-  <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, MUI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.</li>
-  <li>
+  <ul>
+    <li><strong>Description:</strong> Explore Nest is an online tourist guide platform that provides comprehensive information and resources for travelers seeking guidance on popular destinations and booking a tour package.</li>
+    <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, MUI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.</li>
+    <li>
     <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
-  </li>
-</ul>
+    </li>
+  </ul>
 
-### Car Brand Shop Website
+### Car Brand Shop Website 🚗
 
 <ul>
   <li><strong>Description:</strong> A simple responsive online car brand shop, created as a single page React application with Firebase SDK Authentication, and backend integration using Express JS and MongoDB CRUD operations.</li>
@@ -51,7 +51,7 @@
   </li>
 </ul>
 
-### Online Event Management SPA
+### Online Event Management SPA 🎪
 
 <ul>
   <li><strong>Description:</strong> A simple entertainment events management website, built using React, Firebase SDK, React Router, Tailwind CSS and Daisy UI.</li>
@@ -81,3 +81,7 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia) -->
+
+## 📫 Socials
+
+<p align="left"> <a href="https://www.github.com/Rezwan66" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shaikhrezwan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@shaikhrezwan66" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
