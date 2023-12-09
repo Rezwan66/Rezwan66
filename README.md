@@ -35,6 +35,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=algolia)
 
+<p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=algolia" />
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia)
