@@ -5,11 +5,13 @@
 <h4>An enthusiastic frontend developer, adept at problem-solving, coding, and project management. I want to leverage my skills in Web Development to do something worthwhile in the field.</h4>
 <br/>
 
+## 📈 Current Stats
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rezwan66&label=Profile%20views&color=0e75b6&style=flat" alt="rezwan66" /> </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85" />
-</p><br/>
+</p>
 
 ## 💻 Current Overview
 
@@ -29,7 +31,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,tailwind,react,firebase,nodejs,express,mongodb,mysql,figma)](https://skillicons.dev)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85)](https://git.io/streak-stats) -->
 
@@ -40,10 +42,10 @@
 </p>
 
 <a href="http://www.github.com/Rezwan66">
-    <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
+    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
 </a>
 <a href="http://www.github.com/Rezwan66">
-    <img align="right" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
+    <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
 </a>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
