@@ -8,7 +8,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rezwan66&label=Profile%20views&color=0e75b6&style=flat" alt="rezwan66" /> </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85" />
 </p><br/>
 
 ## 💻 Current Overview
@@ -41,10 +41,10 @@
 
 <div style="display:flex;justify-content: space-between">
   <p align="left">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
+    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
   </p>
   <p align="right">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
+    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
   </p>
 </div>
 
