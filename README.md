@@ -3,7 +3,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Aficionado;Tailwind+CSS+Connoisseur" alt="Typing SVG" /></a></p>
 
 <h4>An enthusiastic frontend developer, adept at problem-solving, coding, and project management. I want to leverage my skills in Web Development to do something worthwhile in the field.</h4>
-<br/>
 
 ## 📈 Current Stats
 
@@ -28,6 +27,7 @@
 ## 🛠 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,tailwind,react,firebase,nodejs,express,mongodb,mysql,figma)](https://skillicons.dev)
+<br/>
 
 ## 🚀 Latest Projects
 
