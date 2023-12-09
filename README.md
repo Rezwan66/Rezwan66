@@ -39,7 +39,7 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=algolia" />
 </p>
 
-<div style="display:flex;justify-content: space-between">
+<div style="display:flex;justify-content:space-between">
   <p align="left">
     <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
   </p>
