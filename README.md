@@ -26,3 +26,11 @@
 ## 🚀 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,tailwind,react,firebase,nodejs,express,mongodb,mysql,figma)](https://skillicons.dev)
+
+## GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rezwan66&theme=algolia&utcOffset=8)
