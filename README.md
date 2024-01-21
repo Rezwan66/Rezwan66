@@ -1,6 +1,6 @@
 [![Header](https://github.com/Rezwan66/Rezwan66/blob/main/assets/banner%20edit.png?raw=true 'Shaikh Rezwan Cover with Card')](https://github.com/Rezwan66)
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Aficionado;Tailwind+CSS+Connoisseur" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+this+is+Shaikh;Frontend+Developer;React.js+Aficionado;Tailwind+CSS+Connoisseur" alt="Typing SVG" /></a></p>
 
 <h4>An enthusiastic frontend developer, adept at HTML5, CSS3, JavaScript, ES6, React.js, Express.js and MongoDB. Currently persuing a Master's degree in Digital Engineering. I want to leverage my skills in Web Development with creativity and enthusiasm to do something worthwhile in the field.</h4>
 
@@ -14,9 +14,9 @@
 
 ## 💻 Current Overview
 
-- 🌱 I’m currently learning **Next Js, MUI**
+- 🌱 I’m currently learning **Next Js, Typescript, MUI**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **MERN stack projects**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](http://rezwan66.github.io/ShaikhRezwan.github.io/), [WebDev Projects Repo](https://github.com/Rezwan66/webdev-projects)
 
