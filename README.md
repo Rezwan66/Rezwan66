@@ -36,7 +36,7 @@
 ### Online Tourist Guide Platform 🎍
 
   <ul>
-    <li><strong>Description:</strong> Explore Nest is an online tourist guide platform that provides comprehensive information and resources for travelers seeking guidance on popular destinations and booking a tour package.</li>
+    <li><strong>Description:</strong> Explore Nest is an online tourist guide platform that provides comprehensive information and resources for travelers seeking guidance on popular destinations and booking tour packages.</li>
     <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, MUI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.</li>
     <li>
     <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
@@ -56,7 +56,7 @@
 ### Online Event Management SPA 🎪
 
 <ul>
-  <li><strong>Description:</strong> A simple entertainment events management website, built using React, Firebase SDK, React Router, Tailwind CSS and Daisy UI.</li>
+  <li><strong>Description:</strong> A simple entertainment event management website, built using React, Firebase SDK, React Router, Tailwind CSS and Daisy UI.</li>
   <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI and Firebase SDK.</li>
   <li>
     <a href="https://github.com/Rezwan66/entertainment-freak">Git repo</a> | <a href="https://entertainment-freak.web.app/">Live site link</a>
