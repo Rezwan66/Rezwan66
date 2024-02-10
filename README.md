@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+this+is+Shaikh+👋;Frontend+Developer;MERN+Stack+Developer;React.js+Aficionado;Tailwind+CSS+Connoisseur" alt="Typing SVG" /></a></p>
 
-<h4>An enthusiastic frontend developer, adept at HTML5, CSS3, JavaScript, ES6, React.js, Express.js and MongoDB. Currently persuing a Master's degree in Digital Engineering. I want to leverage my skills in Web Development with creativity and enthusiasm to do something worthwhile in the field.</h4>
+<h4>An enthusiastic frontend developer, adept at HTML5, CSS3, JavaScript, ES6, React.js, Express.js and MongoDB. Currently pursuing a Master's degree in Digital Engineering. I want to leverage my skills in Web Development with creativity and enthusiasm to do something worthwhile in the field.</h4>
 
 ## 📈 Current Stats
 
@@ -14,17 +14,17 @@
 
 ## 💻 Current Overview
 
-- 🌱 I’m currently learning **Next Js, Typescript, MUI**
+- 🌱 I’m currently learning **Redux, Next Js, Typescript & MUI**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](http://rezwan66.github.io/ShaikhRezwan.github.io/), [WebDev Projects Repo](https://github.com/Rezwan66/webdev-projects)
 
-- 💬 Let's talk about **React, Vanilla JavaScript, Tailwind CSS, Daisy UI**
+- 💬 Let's talk about **React, Vanilla JavaScript, Tailwind CSS, REST API**
 
 - 📧 How to reach me **shaikhrezwan66@gmail.com**
 
-- ⚡ Fun fact **I am not Batman!..🐱‍👤**
+- ⚡ Random Quote **Procrastination is the art of keeping up with yesterday! ... Don Marquis**
 
 ## 🛠 Languages and Tools
 
