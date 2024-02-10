@@ -33,34 +33,34 @@
 
 ## 🚀 Latest Projects
 
-### Online Tourist Guide Platform 🎍
+### **Explore Nest**: Online Tourist Guide Platform 🎍 <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
 
   <ul>
     <li><strong>Description:</strong> Explore Nest is an online tourist guide platform that provides comprehensive information and resources for travelers seeking guidance on popular destinations and booking tour packages.</li>
-    <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, MUI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.</li>
-    <li>
+    <li><strong>Technology Used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, MUI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.</li>
+    <!-- <li>
     <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
-    </li>
+    </li> -->
   </ul>
 
-### Car Brand Shop Website 🚗
+### **Auto Maniac**: Car Brand Shop Website 🚗 <a href="https://github.com/Rezwan66/auto-maniac-client">Client side</a> | <a href="https://github.com/Rezwan66/auto-maniac-server">Server side</a> | <a href="https://auto-maniac.web.app/">Live site link</a>
 
 <ul>
-  <li><strong>Description:</strong> A simple responsive online car brand shop, created as a single page React application with Firebase SDK Authentication, and backend integration using Express JS and MongoDB CRUD operations.</li>
+  <li><strong>Description:</strong> A simple responsive online car brand shop, created as a single page React application where users can buy vehicles and car parts.</li>
   <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase SDK.</li>
-  <li>
+  <!-- <li>
     <a href="https://github.com/Rezwan66/auto-maniac-client">Client side</a> | <a href="https://github.com/Rezwan66/auto-maniac-server">Server side</a> | <a href="https://auto-maniac.web.app/">Live site link</a>
-  </li>
+  </li> -->
 </ul>
 
-### Online Event Management SPA 🎪
+### Online Event Management SPA 🎪 <a href="https://github.com/Rezwan66/entertainment-freak">Git repo</a> | <a href="https://entertainment-freak.web.app/">Live site link</a>
 
 <ul>
-  <li><strong>Description:</strong> A simple entertainment event management website, built using React, Firebase SDK, React Router, Tailwind CSS and Daisy UI.</li>
+  <li><strong>Description:</strong> A simple entertainment event management website, where users can register and book events.</li>
   <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI and Firebase SDK.</li>
-  <li>
+  <!-- <li>
     <a href="https://github.com/Rezwan66/entertainment-freak">Git repo</a> | <a href="https://entertainment-freak.web.app/">Live site link</a>
-  </li>
+  </li> -->
 </ul>
 
 ## 📊 GitHub Stats
