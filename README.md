@@ -24,7 +24,7 @@
 
 - 📧 How to reach me **shaikhrezwan66@gmail.com**
 
-- ⚡ Random Quote **Procrastination is the art of keeping up with yesterday! ... Don Marquis**
+- ⚡ Random Quote: _Procrastination is the art of keeping up with yesterday! ... Don Marquis_
 
 ## 🛠 Languages and Tools
 
