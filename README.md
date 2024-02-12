@@ -37,7 +37,19 @@
 
   <ul>
     <li><strong>Description:</strong> Online tourist guide platform that provides comprehensive information and resources for travelers seeking guidance on popular destinations and booking tour packages.</li>
-    <li><strong>Technology Used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, MUI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.</li>
+    <li><strong>Technology Used:</strong> <br>
+    <!-- React.js, JavaScript, Tailwind CSS, Daisy UI, MUI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.  -->
+    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
+    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
+    <img src='https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white' />
+    <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white' />
+    <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
+    <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' />
+    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+    <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
+    <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' />
+    </li>
     <!-- <li>
     <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
     </li> -->
@@ -47,7 +59,18 @@
 
   <ul>
     <li><strong>Description:</strong> A simple responsive React SPA for booking, providing, and exploring carpool and ride-sharing services.</li>
-    <li><strong>Technology Used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.</li>
+    <li><strong>Technology Used:</strong> <br>
+    <!-- React.js, JavaScript, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken. -->
+    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
+    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
+    <img src='https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white' />
+    <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
+    <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' />
+    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+    <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
+    <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' />
+    </li>
     <!-- <li>
     <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
     </li> -->
@@ -57,7 +80,16 @@
 
 <ul>
   <li><strong>Description:</strong> A simple responsive car brand shop, where users can buy vehicles and car parts.</li>
-  <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase SDK.</li>
+  <li><strong>Technology used:</strong> <br>
+  <!-- React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase SDK. -->
+  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
+    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
+    <img src='https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white' />
+    <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' />
+    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+    <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
+  </li>
   <!-- <li>
     <a href="https://github.com/Rezwan66/auto-maniac-client">Client side</a> | <a href="https://github.com/Rezwan66/auto-maniac-server">Server side</a> | <a href="https://auto-maniac.web.app/">Live site link</a>
   </li> -->
@@ -67,7 +99,15 @@
 
 <ul>
   <li><strong>Description:</strong> A simple entertainment event management website, where users can register and book events.</li>
-  <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI and Firebase SDK.</li>
+  <li><strong>Technology used:</strong> <br>
+  <!-- React.js, JavaScript, Tailwind CSS, Daisy UI and Firebase SDK. -->
+  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
+    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
+    <img src='https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white' />
+    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+    <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
+  </li>
   <!-- <li>
     <a href="https://github.com/Rezwan66/entertainment-freak">Git repo</a> | <a href="https://entertainment-freak.web.app/">Live site link</a>
   </li> -->
