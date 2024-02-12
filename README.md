@@ -43,7 +43,17 @@
     </li> -->
   </ul>
 
-### **Auto Maniac** 🚗 <a href="https://github.com/Rezwan66/auto-maniac-client">Client side</a> | <a href="https://github.com/Rezwan66/auto-maniac-server">Server side</a> | <a href="https://auto-maniac.web.app/">Live site link</a>
+### **Travel Buddy io** 🚘 <a href="https://github.com/Rezwan66/travel-buddy-io-client">Client side</a> | <a href="https://github.com/Rezwan66/travel-buddy-io-server">Server side</a> | <a href="https://travel-buddy-io.web.app/">Live site link</a>
+
+  <ul>
+    <li><strong>Description:</strong> A simple responsive React SPA for booking, providing, and exploring carpool and ride-sharing services.</li>
+    <li><strong>Technology Used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.</li>
+    <!-- <li>
+    <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
+    </li> -->
+  </ul>
+
+### **Auto Maniac** 🏎️ <a href="https://github.com/Rezwan66/auto-maniac-client">Client side</a> | <a href="https://github.com/Rezwan66/auto-maniac-server">Server side</a> | <a href="https://auto-maniac.web.app/">Live site link</a>
 
 <ul>
   <li><strong>Description:</strong> A simple responsive car brand shop, where users can buy vehicles and car parts.</li>
