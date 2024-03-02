@@ -99,6 +99,8 @@
 
 <ul>
   <li><strong>Description:</strong> A simple entertainment event management website, where users can register and book events.</li>
+<li><strong>TODO:</strong> Implement a ticket buying modal which opens on clicking an event.</li>
+
   <li><strong>Technology used:</strong> <br>
   <!-- React.js, JavaScript, Tailwind CSS, Daisy UI and Firebase SDK. -->
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
