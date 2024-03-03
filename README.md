@@ -99,7 +99,7 @@
 
 <ul>
   <li><strong>Description:</strong> A simple entertainment event management website, where users can register and book events.</li>
-<li><strong>TODO:</strong> Implement a ticket buying modal which opens on clicking an event.</li>
+<li><strong>TODO:</strong> Implement a ticket buying modal which opens on clicking an event. Add tickets dates collection to MongoDB, where, if a ticket is bought it will update in the database.</li>
 
   <li><strong>Technology used:</strong> <br>
   <!-- React.js, JavaScript, Tailwind CSS, Daisy UI and Firebase SDK. -->
