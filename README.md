@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+this+is+Shaikh+👋;Frontend+Developer;MERN+Stack+Developer;React.js+Aficionado;Tailwind+CSS+Connoisseur" alt="Typing SVG" /></a></p>
 
-<h4>An enthusiastic MERN Stack developer, adept at HTML5, CSS3, JavaScript, ES6, React.js, Express.js and MongoDB. Currently pursuing a Master's degree in Digital Engineering. I want to leverage my skills in Web Development with creativity and enthusiasm to do something worthwhile in the field.</h4>
+<h4>I am an enthusiastic MERN Stack developer, adept at HTML5, CSS3, JavaScript, ES6, React.js, Express.js and MongoDB. Currently pursuing a Master's degree in Digital Engineering. I want to leverage my skills in Web Development with creativity and enthusiasm to do something worthwhile in the field.</h4>
 
 ## 📈 Current Stats
 
