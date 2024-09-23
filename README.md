@@ -79,7 +79,7 @@
 ### **Auto Maniac** 🏎️ <a href="https://github.com/Rezwan66/auto-maniac-client">Client side</a> | <a href="https://github.com/Rezwan66/auto-maniac-server">Server side</a> | <a href="https://auto-maniac.web.app/">Live site link</a>
 
 <ul>
-  <li><strong>Description:</strong> A simple responsive car brand shop, where users can buy vehicles and car parts.</li>
+  <li><strong>Description:</strong> A fully responsive online car brand shop, where users can buy vehicles and car parts.</li>
   <li><strong>Technology used:</strong> <br>
   <!-- React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase SDK. -->
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
