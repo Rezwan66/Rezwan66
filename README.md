@@ -98,7 +98,7 @@
 ### **Entertainment Freak** 🎪 <a href="https://github.com/Rezwan66/entertainment-freak">Git repo</a> | <a href="https://entertainment-freak.web.app/">Live site link</a>
 
 <ul>
-  <li><strong>Description:</strong> A simple entertainment event management website, where users can register and book events.</li>
+  <li><strong>Description:</strong> A simple entertainment event management website, where users can register and book events, buy and sell tickets.</li>
 <!-- <li><strong>TODO:</strong> Implement a ticket buying modal which opens on clicking an event. Add tickets dates collection to MongoDB, where, if a ticket is bought it will update in the database. Add token system to add separate roles for buyer and seller. Also add stripe payment system for ticket payment.</li> -->
 
   <li><strong>Technology used:</strong> <br>
