@@ -14,7 +14,7 @@
 
 ## 💻 Current Overview
 
-- 🌱 I’m currently learning **Redux, Next Js, Typescript & MUI**
+- 🌱 I’m currently learning **Redux, Angular, Next Js, Typescript & MUI**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
