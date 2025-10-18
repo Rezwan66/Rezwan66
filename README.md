@@ -4,7 +4,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Shaikh+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%AA%88;React.js+Aficionado+%C2%AE%EF%B8%8F;Tailwind+CSS+Connoisseur+%F0%9F%8C%B8)](https://git.io/typing-svg) -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Shaikh+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%AA%88;React.js+Aficionado+%C2%AE%EF%B8%8F;Tailwind+CSS+Connoisseur+%F0%9F%8C%B8" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Shaikh+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%AA%88;React.js+Aficionado+%C2%AE%EF%B8%8F;Tailwind+CSS+Connoisseur+%F0%9F%8C%B8" alt="Typing SVG" /></a></p>
 
 <h4>I am an enthusiastic Full Stack developer, adept at HTML5, CSS3, JavaScript, ES6, React.js, Python/FastAPI, Express.js and MongoDB. Currently pursuing a Master's degree in Digital Engineering, and learning TypeScript, Golang, and SQL. I want to leverage my skills in Web Development with creativity and enthusiasm to do something worthwhile in the field.</h4>
 
