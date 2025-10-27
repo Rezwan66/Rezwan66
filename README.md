@@ -15,7 +15,7 @@
 <p align="center">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&mode=daily&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85" /> -->
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-taupe.vercel.app?user=Rezwan66&theme=vue-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+<p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-taupe.vercel.app?user=Rezwan66&theme=vue-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></p>
 
 </p>
 
