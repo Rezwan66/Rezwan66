@@ -4,13 +4,13 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Shaikh+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%AA%88;React.js+Aficionado+%C2%AE%EF%B8%8F;Tailwind+CSS+Connoisseur+%F0%9F%8C%B8)](https://git.io/typing-svg) -->
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Shaikh+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%AA%88;React.js+Aficionado+%C2%AE%EF%B8%8F;Tailwind+CSS+Connoisseur+%F0%9F%8C%B8" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42b883&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Shaikh+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%AA%88;React.js+Aficionado+%C2%AE%EF%B8%8F;Tailwind+CSS+Connoisseur+%F0%9F%8C%B8" alt="Typing SVG" /></a></p>
 
 <h4>I am an enthusiastic Full Stack developer, adept at HTML5, CSS3, JavaScript, ES6, React.js, Python/FastAPI, Express.js and MongoDB. Currently pursuing a Master's degree in Digital Engineering, and learning TypeScript, Golang, and SQL. I want to leverage my skills in Web Development with creativity and enthusiasm to do something worthwhile in the field.</h4>
 
 ## 📈 Current Stats
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rezwan66&label=Profile%20views&color=0e75b6&style=flat" alt="rezwan66" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rezwan66&label=Profile%20views&color=42b883&style=flat" alt="rezwan66" /> </p>
 
 <p align="center">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&mode=daily&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85" /> -->
@@ -129,14 +129,14 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=algolia) -->
 
 <p align="center">
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=algolia" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=vue" />
 </p>
 
 <a href="http://www.github.com/Rezwan66">
-    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia" />
+    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=vue" />
 </a>
 <a href="http://www.github.com/Rezwan66">
-    <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia" />
+    <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=vue" />
 </a>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
