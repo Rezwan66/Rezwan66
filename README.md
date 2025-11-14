@@ -17,7 +17,7 @@
 <p align="center">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&mode=daily&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85" /> -->
 
-<p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-taupe.vercel.app?user=Rezwan66&theme=vue-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></p>
+<p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-taupe.vercel.app?user=Rezwan66&theme=vue&hide_border=true&short_numbers=true" alt="GitHub Streak" /></p>
 
 </p>
 
@@ -135,10 +135,10 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&card_width=480" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&card_width=450&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezwan66&layout=compact&langs_count=8&card_width=350&theme=vue" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezwan66&layout=compact&langs_count=8&card_width=370&theme=vue" />
 </a>
 
 <!-- ![Rezwan66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&layout=compact)
