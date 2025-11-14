@@ -134,23 +134,16 @@
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=vue" />
 </p>
 
-<p width='100%'>
-  <a href="http://www.github.com/Rezwan66">
-    <img align='left' width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&layout=compact" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rezwan66" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezwan66&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-  <a href="http://www.github.com/Rezwan66">
-    <img align="right" width="48%" height='100%' src="https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-</p>
+<!-- ![Rezwan66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
-<!-- ![Rezwan66's Stats](https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&count_private=true) -->
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rezwan66&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rezwan66&theme=algolia) -->
-
-<!-- ![rezwan66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan66&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
+![Rezwan66's Stats](https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&count_private=true) -->
 
 ## 📫 Socials
 
