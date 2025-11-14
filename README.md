@@ -135,7 +135,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&card_width=480" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezwan66&layout=compact&langs_count=8&card_width=350&theme=vue" />
