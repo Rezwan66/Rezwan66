@@ -131,14 +131,14 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=algolia) -->
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=vue" />
+  <img width="720px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=vue" />
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rezwan66" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezwan66&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezwan66&layout=compact&langs_count=8&card_width=320&theme=vue" />
 </a>
 
 <!-- ![Rezwan66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&layout=compact)
