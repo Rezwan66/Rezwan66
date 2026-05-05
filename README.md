@@ -1,150 +1,101 @@
-<!-- [![Header](https://github.com/Rezwan66/Rezwan66/blob/main/assets/banner%20edit.png?raw=true 'Shaikh Rezwan Cover with Card')](https://github.com/Rezwan66) -->
-
-[![Header](https://github.com/Rezwan66/Rezwan66/blob/main/assets/github-banner-vue.png 'Shaikh Rezwan Cover with Card')](https://github.com/Rezwan66)
-
-<!-- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+this+is+Shaikh+👋;Frontend+Developer;Full+Stack+Developer;React.js+Aficionado;Tailwind+CSS+Connoisseur" alt="Typing SVG" /></a></p> -->
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Shaikh+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%AA%88;React.js+Aficionado+%C2%AE%EF%B8%8F;Tailwind+CSS+Connoisseur+%F0%9F%8C%B8)](https://git.io/typing-svg) -->
-
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42b883&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Shaikh+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%AA%88;React.js+Aficionado+%C2%AE%EF%B8%8F;Tailwind+CSS+Connoisseur+%F0%9F%8C%B8" alt="Typing SVG" /></a></p>
-
-<h4>I am an enthusiastic Full Stack developer, adept at HTML5, CSS3, JavaScript, ES6, React.js, Python/FastAPI, Express.js and MongoDB. Currently pursuing a Master's degree in Digital Engineering, and learning TypeScript, Golang, and SQL. I want to leverage my skills in Web Development with creativity and enthusiasm to do something worthwhile in the field.</h4>
-
-## 📈 Current Stats
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rezwan66&label=Profile%20views&color=42b883&style=flat" alt="rezwan66" /> </p>
+[![Header](https://github.com/Rezwan66/Rezwan66/blob/main/assets/github-banner-vue.png 'Shaikh Rezwan')](https://github.com/Rezwan66)
 
 <p align="center">
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&mode=daily&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85" /> -->
-
-<p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-taupe.vercel.app?user=Rezwan66&theme=vue&short_numbers=true" alt="GitHub Streak" /></p>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=540&lines=Intelligent+Search+Developer+at+SAP+%F0%9F%94%8D;Full+Stack+Developer+%7C+React+%2B+Next.js+%F0%9F%9A%80;Building+scalable+web+products+%26+APIs+%E2%9A%A1;M.Sc.+Digital+Engineering+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
 </p>
 
-## 💻 Current Overview
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rezwan66&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+</p>
 
-- 🌱 I’m currently learning **Redux, SQL, Angular, Next Js, Prisma, RDBMS, Typescript & Databricks**
+---
 
-- 👯 I’m looking to collaborate on **Full stack projects**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at my [GitHub Portfolio](http://rezwan66.github.io/ShaikhRezwan.github.io/), [WebDev Projects Repo](https://github.com/Rezwan66/webdev-projects), or [Next Js Portfolio](https://shaikh-rezwan.vercel.app/)
+**Intelligent Search Developer at [SAP](https://www.sap.com/) · Full Stack Developer · M.Sc. Digital Engineering**
 
-- 💬 Let's talk about **Next Js, Vanilla JavaScript, Tailwind CSS, REST API**
+I build scalable backend services, data extraction pipelines, and full-stack web applications. Currently working on intelligent search systems at SAP in Germany, with a passion for clean architecture, performant APIs, and distributed systems.
 
-- 📧 How to reach me **shaikhrezwan66@gmail.com**
+- 🔭 Working on **intelligent search systems & data pipelines** at SAP
+- 🌱 Exploring **Go, Kubernetes & distributed systems**
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript, REST APIs**
+- 📍 Based in **Magdeburg, Germany**
 
-- ⚡ Random Quote: _Procrastination is the art of keeping up with yesterday! ... Don Marquis_
+---
 
-## 🛠 Languages and Tools
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,tailwind,react,firebase,nodejs,express,mongodb,mysql,figma)](https://skillicons.dev)
-<br/>
+**Languages**
 
-## 🚀 Latest Projects
+[![Languages](https://skillicons.dev/icons?i=js,ts,py,go,html,css&theme=dark)](https://skillicons.dev)
 
-### **Explore Nest** 🎍 <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
+**Frontend**
 
-  <ul>
-    <li><strong>Description:</strong> Online tourist guide platform that provides comprehensive information and resources for travelers seeking guidance on popular destinations and booking tour packages.</li>
-    <li><strong>Technology Used:</strong> <br>
-    <!-- React.js, JavaScript, Tailwind CSS, Daisy UI, MUI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken.  -->
-    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
-    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
-    <img src='https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white' />
-    <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white' />
-    <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
-    <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' />
-    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-    <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
-    <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' />
-    </li>
-    <!-- <li>
-    <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
-    </li> -->
-  </ul>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,angular&theme=dark)](https://skillicons.dev)
 
-### **Travel Buddy io** 🚘 <a href="https://github.com/Rezwan66/travel-buddy-io-client">Client side</a> | <a href="https://github.com/Rezwan66/travel-buddy-io-server">Server side</a> | <a href="https://travel-buddy-io.web.app/">Live site link</a>
+**Backend & Database**
 
-  <ul>
-    <li><strong>Description:</strong> A simple responsive React SPA for booking, providing, and exploring carpool and ride-sharing services.</li>
-    <li><strong>Technology Used:</strong> <br>
-    <!-- React.js, JavaScript, Tailwind CSS, Daisy UI, Node.js, Express.js, MongoDB, Firebase SDK and Json Webtoken. -->
-    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
-    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
-    <img src='https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white' />
-    <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
-    <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' />
-    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-    <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
-    <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' />
-    </li>
-    <!-- <li>
-    <a href="https://github.com/Rezwan66/explore-nest-client">Client side</a> | <a href="https://github.com/Rezwan66/explore-nest-server">Server side</a> | <a href="https://explore-nest.web.app/">Live site link</a>
-    </li> -->
-  </ul>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,mongodb,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-### **Auto Maniac** 🏎️ <a href="https://github.com/Rezwan66/auto-maniac-client">Client side</a> | <a href="https://github.com/Rezwan66/auto-maniac-server">Server side</a> | <a href="https://auto-maniac.web.app/">Live site link</a>
+**Cloud & DevOps**
 
-<ul>
-  <li><strong>Description:</strong> A fully responsive online car brand shop, where users can buy vehicles and car parts.</li>
-  <li><strong>Technology used:</strong> <br>
-  <!-- React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase SDK. -->
-  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
-    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
-    <img src='https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white' />
-    <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' />
-    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-    <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
-  </li>
-  <!-- <li>
-    <a href="https://github.com/Rezwan66/auto-maniac-client">Client side</a> | <a href="https://github.com/Rezwan66/auto-maniac-server">Server side</a> | <a href="https://auto-maniac.web.app/">Live site link</a>
-  </li> -->
-</ul>
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,azure,jenkins,githubactions&theme=dark)](https://skillicons.dev)
 
-### **Entertainment Freak** 🎪 <a href="https://github.com/Rezwan66/entertainment-freak">Git repo</a> | <a href="https://entertainment-freak.web.app/">Live site link</a>
+**Tools**
 
-<ul>
-  <li><strong>Description:</strong> A simple entertainment event management website, where users can register and book events, buy and sell tickets.</li>
-<!-- <li><strong>TODO:</strong> Implement a ticket buying modal which opens on clicking an event. Add tickets dates collection to MongoDB, where, if a ticket is bought it will update in the database. Add token system to add separate roles for buyer and seller. Also add stripe payment system for ticket payment.</li> -->
+[![Tools](https://skillicons.dev/icons?i=git,figma,postman,vscode&theme=dark)](https://skillicons.dev)
 
-  <li><strong>Technology used:</strong> <br>
-  <!-- React.js, JavaScript, Tailwind CSS, Daisy UI and Firebase SDK. -->
-  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-  <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
-  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
-  <img src='https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white' />
-  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-  <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
-  </li>
-  <!-- <li>
-    <a href="https://github.com/Rezwan66/entertainment-freak">Git repo</a> | <a href="https://entertainment-freak.web.app/">Live site link</a>
-  </li> -->
-</ul>
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Links |
+|:--------|:------------|:-----|:------|
+| **SkillBridge** | Full-stack learning platform with role-based dashboards, AI assistant, and session booking | Next.js · Node.js · MongoDB · Stripe | [Frontend](https://github.com/Rezwan66/skillbridge-frontend) · [Backend](https://github.com/Rezwan66/skillbridge-backend) · [Live ↗](https://skillbridge-frontend-plum.vercel.app) |
+| **Explore Nest** | Tourist guide platform with JWT auth, role-based access, and tour package booking | React · Express · MongoDB · Firebase | [Client](https://github.com/Rezwan66/explore-nest-client) · [Server](https://github.com/Rezwan66/explore-nest-server) · [Live ↗](https://explore-nest.web.app) |
+| **Travel Buddy io** | Carpool & ride-sharing platform with service management dashboard and dark mode | React · Express · MongoDB · Firebase | [Client](https://github.com/Rezwan66/travel-buddy-io-client) · [Server](https://github.com/Rezwan66/travel-buddy-io-server) · [Live ↗](https://travel-buddy-io.web.app) |
+
+> 📌 _See all my projects on my [Portfolio](https://shaikh-rezwan.vercel.app/#projects) or browse my [Repositories](https://github.com/Rezwan66?tab=repositories)._
+
+---
 
 ## 📊 GitHub Stats
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rezwan66&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85)](https://git.io/streak-stats) -->
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=algolia) -->
-
-<p align="left">
-  <img width="850px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=vue" />
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight-taupe.vercel.app?user=Rezwan66&theme=tokyonight&short_numbers=true&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&card_width=450&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezwan66&layout=compact&langs_count=8&card_width=370&theme=vue" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rezwan66&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Rezwan66&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
-<!-- ![Rezwan66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan66&theme=tokyonight" alt="Profile Details" />
+</p>
 
-![Rezwan66's Stats](https://github-readme-stats.vercel.app/api?username=Rezwan66&theme=vue&show_icons=true&hide_border=true&count_private=true) -->
+---
 
-## 📫 Socials
+## 📫 Connect With Me
 
-<p align="left"> <a href="https://www.github.com/Rezwan66" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shaikhrezwan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@shaikhrezwan66" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaikhrezwan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://shaikh-rezwan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="mailto:shaikhrezwan66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://medium.com/@shaikhrezwan66" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
