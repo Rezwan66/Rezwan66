@@ -53,7 +53,7 @@ I build scalable backend services, data extraction pipelines, and full-stack web
 
 | Project | Description | Tech | Links |
 |:--------|:------------|:-----|:------|
-| **SkillBridge** | Full-stack learning platform with role-based dashboards, AI assistant, and session booking | Next.js · Node.js · MongoDB · Stripe | [Frontend](https://github.com/Rezwan66/skillbridge-frontend) · [Backend](https://github.com/Rezwan66/skillbridge-backend) · [Live ↗](https://skillbridge-frontend-plum.vercel.app) |
+| **SkillBridge** | Full-stack learning platform with role-based dashboards, AI assistant, and session booking | Next.js · Express.js · Prisma Client · PostgreSQL · BetterAuth · Stripe · shadcn/ui | [Frontend](https://github.com/Rezwan66/skillbridge-frontend) · [Backend](https://github.com/Rezwan66/skillbridge-backend) · [Live ↗](https://skillbridge-frontend-plum.vercel.app) |
 | **Explore Nest** | Tourist guide platform with JWT auth, role-based access, and tour package booking | React · Express · MongoDB · Firebase | [Client](https://github.com/Rezwan66/explore-nest-client) · [Server](https://github.com/Rezwan66/explore-nest-server) · [Live ↗](https://explore-nest.web.app) |
 | **Travel Buddy io** | Carpool & ride-sharing platform with service management dashboard and dark mode | React · Express · MongoDB · Firebase | [Client](https://github.com/Rezwan66/travel-buddy-io-client) · [Server](https://github.com/Rezwan66/travel-buddy-io-server) · [Live ↗](https://travel-buddy-io.web.app) |
 
